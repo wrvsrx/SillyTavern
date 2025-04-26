@@ -55,4 +55,5 @@ public/scripts/extensions/third-party
 .env
 /StartDev.bat
 
-/.direnv
+/.direnv/
+/result
