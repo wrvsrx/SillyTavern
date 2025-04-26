@@ -5,7 +5,7 @@
 }:
 buildNpmPackage {
   pname = "SillyTavern";
-  version = "tag";
+  version = "dev";
   src = ./.;
   # makeCacheWritable = true;
   # npmFlags = [
